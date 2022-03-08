@@ -1,0 +1,10 @@
+tellraw @p {"text":"========= Select Elevator Model ===========","color":"gold"}
+tellraw @p {"text":"[Modern]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model1"}}
+tellraw @p {"text":"[Panoramic]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model2"}}
+tellraw @p {"text":"[Classic]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model3"}}
+tellraw @p {"text":"[Mineshaft]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model4"}}
+tellraw @p {"text":"[Custom Model 1]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model5"}}
+tellraw @p {"text":"[Custom Model 2]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model6"}}
+tellraw @p {"text":"[Custom Model 3]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model7"}}
+tellraw @p {"text":"[Custom Model 4]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @e[type=minecraft:armor_stand,name=celevator,distance=..10,limit=1,sort=nearest] at @s run function elevator115_gshn28:change_model8"}}
+tellraw @p {"text":"========================================","color":"gold"}
