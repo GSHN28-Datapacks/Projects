@@ -1,0 +1,10 @@
+execute if entity @s[tag=cplane1,tag=!cplane_access] run function custom_planes_gshn28:rotation1
+execute if entity @s[tag=cplane2,tag=!cplane_access] run function custom_planes_gshn28:rotation2
+execute if entity @s[tag=cplane3,tag=!cplane_access] run function custom_planes_gshn28:rotation3
+execute if entity @s[tag=cplane4,tag=!cplane_access] run function custom_planes_gshn28:rotation4
+execute if entity @s[tag=cplane5,tag=!cplane_access] run function custom_planes_gshn28:rotation5
+execute if entity @s[tag=cplane6,tag=!cplane_access] run function custom_planes_gshn28:rotation6
+execute if entity @s[tag=cplane7,tag=!cplane_access] run function custom_planes_gshn28:rotation7
+execute if entity @s[tag=cplane8,tag=!cplane_access] run function custom_planes_gshn28:rotation8
+execute if entity @s[tag=cplane9,tag=!cplane_access] run function custom_planes_gshn28:rotation9
+execute if entity @s[tag=cplane10,tag=!cplane_access] run function custom_planes_gshn28:rotation10

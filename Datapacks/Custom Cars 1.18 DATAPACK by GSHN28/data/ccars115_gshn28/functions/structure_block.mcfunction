@@ -1,0 +1,2 @@
+summon item ~ ~ ~ {Item: {id: "minecraft:structure_block", Count: 1b, tag: {display:{Name:"{\"text\":\"Custom Cars Garage\"}",Lore:["Activate with redstone to place!"]},BlockEntityTag: {metadata: "", mirror: "NONE", ignoreEntities: 0b, powered: 0b, seed: 0L, author: "gshn28", rotation: "NONE", posX: 0, mode: "LOAD", posY: 0, sizeX: 19, posZ: 0, integrity: 1.0f, showair: 0b, name: "ccars115_gshn28:setup", id: "minecraft:structure_block", sizeY: 8, sizeZ: 19, showboundingbox: 1b}}}}
+
