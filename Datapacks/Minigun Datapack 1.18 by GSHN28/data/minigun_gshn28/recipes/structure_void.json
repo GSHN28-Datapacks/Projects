@@ -1,0 +1,26 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "  i",
+        "iib",
+        " rn"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "b": {
+            "item": "minecraft:iron_block"
+        },
+        "r": {
+            "item": "minecraft:redstone"
+        },
+        "n": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    }
+}
