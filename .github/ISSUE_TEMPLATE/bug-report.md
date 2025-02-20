@@ -3,7 +3,7 @@ name: Bug Report
 about: Create a report to help us improve.
 title: ''
 labels: Bug Report
-assignees: MagmaBro123, MinerFun
+assignees: MagmaBro123, MinerFun, RhysLampard, Thalia-the-nerd
 
 ---
 
