@@ -7,7 +7,7 @@ This repository serves as a centralized platform for tracking feature requests, 
 
 ## Thalia's Weeklys
 
-Thalia's Weeklys are experimental weekly updates released every Saturday at 12:00 (EST). These updates:
+Thalia's Weeklys are experimental weekly updates released every Saturday at 12:00 (UTC). These updates:
 
 - Contain the latest features and changes
 - Are highly experimental and may be extremely buggy
