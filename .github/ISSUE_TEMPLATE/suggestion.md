@@ -2,8 +2,8 @@
 name: Suggestion
 about: Suggest an idea for our projects.
 title: ''
-labels: Suggestion
-assignees: MagmaBro123, MinerFun
+labels: 'Type: Suggestion'
+assignees: MagmaBro123, MinerFun, RhysLampard, Thalia-the-nerd
 
 ---
 
