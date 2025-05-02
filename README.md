@@ -1,5 +1,10 @@
-# Projects
+# Projects (READ THIS)
 Repository for issue tracking and suggestions for Gshn's datapacks and resourcepacks.
+
+
+> [!NOTE]
+> To install a datapack from this repo download it then you **MUST** compress it into a zip before starting the game it also needs to be in the datapacks folder for the world. If downloaded from modrinth just put it in the datapacks folder
+
 
 # Feature Requests & Issue Tracking
 
