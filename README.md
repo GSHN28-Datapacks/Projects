@@ -3,7 +3,7 @@ Repository for issue tracking and suggestions for Gshn's datapacks and resourcep
 
 
 > [!NOTE]
-> To install a datapack from this repo download it then you **MUST** compress it into a zip before starting the game it also needs to be in the datapacks folder for the world. If downloaded from modrinth just put it in the datapacks folder
+> To install a datapack from this repo download it then you **MUST** compress it into a zip before starting the game it also needs to be in the datapacks folder for the world. If downloaded from modrinth just put it in the datapacks folder. Also add it as a server RP or in all players RP folder
 
 
 # Feature Requests & Issue Tracking
