@@ -1,0 +1,25 @@
+particle minecraft:large_smoke ^ ^4 ^1 0.3 0.3 0.3 0.0 5 force
+execute if score @s rptrain_speed matches 0..10 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.7
+execute if score @s rptrain_speed matches 11..20 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.765
+execute if score @s rptrain_speed matches 21..30 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.83
+execute if score @s rptrain_speed matches 31..40 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.895
+execute if score @s rptrain_speed matches 41..50 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.96
+execute if score @s rptrain_speed matches 51..60 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.025
+execute if score @s rptrain_speed matches 61..70 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.09
+execute if score @s rptrain_speed matches 71..80 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.155
+execute if score @s rptrain_speed matches 81..90 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.22
+execute if score @s rptrain_speed matches 91..100 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.285
+execute if score @s rptrain_speed matches 101..110 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.35
+execute if score @s rptrain_speed matches 111..120 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.2
+execute if score @s rptrain_speed matches -10..-1 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.7
+execute if score @s rptrain_speed matches -20..-11 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.765
+execute if score @s rptrain_speed matches -30..-21 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.83
+execute if score @s rptrain_speed matches -40..-31 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.895
+execute if score @s rptrain_speed matches -50..-41 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 0.96
+execute if score @s rptrain_speed matches -60..-51 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.025
+execute if score @s rptrain_speed matches -70..-61 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.09
+execute if score @s rptrain_speed matches -80..-71 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.155
+execute if score @s rptrain_speed matches -90..-81 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.22
+execute if score @s rptrain_speed matches -100..-91 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.285
+execute if score @s rptrain_speed matches -110..-101 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.35
+execute if score @s rptrain_speed matches -120..-111 run playsound minecraft:custom.dieselloco ambient @a[distance=..60] ~ ~ ~ 2 1.2

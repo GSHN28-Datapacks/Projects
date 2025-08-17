@@ -1,0 +1,4 @@
+fill ~ ~-3 ~ ~ ~-4 ~ minecraft:air
+setblock ~ ~-3 ~ minecraft:command_block[facing=down]{TrackOutput:0b,CustomName:'{"text":"rptrain_detector_trigger"}'} replace
+setblock ~ ~-4 ~ minecraft:repeating_command_block[facing=down]{TrackOutput:0b,Command:"setblock ~ ~1 ~ minecraft:command_block[facing=down]{TrackOutput:0b,CustomName:'{\"text\":\"rptrain_detector_trigger\"}'} replace",CustomName:'{"text":"rptrain_detector_trigger"}'} replace
+setblock ~ ~ ~ oak_sign[rotation=0]{front_text:{messages:['["",{"text":"Detector","italic":true,"underlined":true}]','[{"text":"Misplaced?","clickEvent":{"action":"run_command","value":"fill ~0 ~-2 ~0 ~0 ~-4 ~0 air"}}]','[{"text":"Click to remove","clickEvent":{"action":"run_command","value":"say @a Structure Removed!"},"italic":true,"color":"red"}]','["==============="]'],has_glowing_text:1},is_waxed:1} replace

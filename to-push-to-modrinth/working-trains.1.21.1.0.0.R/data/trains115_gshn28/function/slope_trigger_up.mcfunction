@@ -1,0 +1,16 @@
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 0 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope1"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 45 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope2"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 90 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope3"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 135 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope4"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 180 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope5"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 225 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope6"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 270 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope7"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=1..}] rptrain_rotation matches 315 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope8"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 180 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope1"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 225 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope2"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 270 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope3"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 315 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope4"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 0 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope5"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 45 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope6"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 90 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope7"} run function trains115_gshn28:slope_up
+execute if score @s[scores={rptrain_speed=..-1}] rptrain_rotation matches 135 align xyz if block ~ ~-4 ~ minecraft:command_block{Command:"slope8"} run function trains115_gshn28:slope_up

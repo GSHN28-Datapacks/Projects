@@ -1,0 +1,10 @@
+execute if entity @s[tag=rptrain_openwagon,scores={rptrain_crgtype=0}] run function trains115_gshn28:cargo_openwagon_loadtype_trigger
+execute if entity @s[tag=rptrain_openwagon,scores={rptrain_crgtype=1..,rptrain_crgload=..80}] run function trains115_gshn28:cargo_openwagon_load_trigger
+execute if entity @s[tag=rptrain_openwagon,tag=rptrain_unload,scores={rptrain_crgtype=1..,rptrain_crgload=1..}] run function trains115_gshn28:cargo_openwagon_unload_trigger
+execute if entity @s[tag=rptrain_flatwagon,scores={rptrain_crgtype=0}] run function trains115_gshn28:cargo_flatwagon_loadtype_trigger
+execute if entity @s[tag=rptrain_flatwagon,scores={rptrain_crgtype=1..,rptrain_crgload=..80}] run function trains115_gshn28:cargo_flatwagon_load_trigger
+execute if entity @s[tag=rptrain_flatwagon,tag=rptrain_unload,scores={rptrain_crgtype=1..,rptrain_crgload=1..}] run function trains115_gshn28:cargo_flatwagon_unload_trigger
+execute if entity @s[tag=rptrain_tankwagon,scores={rptrain_crgtype=0}] run function trains115_gshn28:cargo_tankwagon_loadtype_trigger
+execute if entity @s[tag=rptrain_tankwagon,scores={rptrain_crgtype=1..,rptrain_crgload=..49}] run function trains115_gshn28:cargo_tankwagon_load_trigger
+execute if entity @s[tag=rptrain_tankwagon,tag=rptrain_unload,scores={rptrain_crgtype=1..,rptrain_crgload=1..}] run function trains115_gshn28:cargo_tankwagon_unload_trigger
+execute if entity @s[tag=rptrain_livestockwagon,tag=rptrain_unload] run function trains115_gshn28:cargo_livestockwagon_unload_trigger

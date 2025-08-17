@@ -1,0 +1,8 @@
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_steamloco,distance=..2] run playsound minecraft:custom.steamwhistle ambient @a[distance=..60] ~ ~ ~ 3 1
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_steamloco,distance=..2] run particle minecraft:cloud ^ ^5 ^-3 0.0 0.2 0.0 0.1 5
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_dieselloco,distance=..2] run playsound minecraft:custom.dieselhorn ambient @a[distance=..60] ~ ~ ~ 3 1
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_metroloco,distance=..2] run playsound minecraft:custom.metrohorn ambient @a[distance=..60] ~ ~ ~ 3 1
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_electricloco,distance=..2] run playsound minecraft:custom.electrichorn ambient @a[distance=..60] ~ ~ ~ 3 1
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_oldtramloco,distance=..2] run playsound minecraft:custom.trambell ambient @a[distance=..60] ~ ~ ~ 2 1.1
+execute at @e[type=minecraft:armor_stand,tag=rptrain_angle,distance=..2] positioned ^ ^ ^5 if entity @e[type=minecraft:armor_stand,tag=rptrain_moderntramloco,distance=..2] run playsound minecraft:custom.trambell ambient @a[distance=..60] ~ ~ ~ 3 1
+

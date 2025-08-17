@@ -1,0 +1,3 @@
+execute if score @s rptrain_crgtype matches 1 run item replace entity @e[type=minecraft:armor_stand,tag=rptrain_model_front,tag=rptrain_cargo,distance=..1] armor.head with minecraft:leather_boots[custom_model_data=112]
+execute if score @s rptrain_crgtype matches 2 run item replace entity @e[type=minecraft:armor_stand,tag=rptrain_model_front,tag=rptrain_cargo,distance=..1] armor.head with minecraft:leather_boots[custom_model_data=113]
+execute if score @s rptrain_crgtype matches 3 run item replace entity @e[type=minecraft:armor_stand,tag=rptrain_model_front,tag=rptrain_cargo,distance=..1] armor.head with minecraft:leather_boots[custom_model_data=114]

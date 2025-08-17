@@ -1,0 +1,9 @@
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
+execute anchored eyes positioned ^ ^-0.3 ^ run particle dust{color:[1.000,0.000,0.000],scale:1} ~ ~ ~ 0 0 0 1 0 normal
