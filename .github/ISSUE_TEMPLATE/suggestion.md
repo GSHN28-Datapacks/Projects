@@ -3,7 +3,7 @@ name: Suggestion
 about: Suggest an idea for our projects.
 title: ''
 labels: 'Type: Suggestion'
-assignees: MagmaBro123, MinerFun, RhysLampard, Thalia-the-nerd
+assignees: MagmaSlime123, MinerFun, RhysLampard, Thalia-the-nerd
 
 ---
 
